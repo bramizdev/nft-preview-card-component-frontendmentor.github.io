@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/bramizdev/nft-preview-card-component-frontendmentor.github.io](https://github.com/bramizdev/nft-preview-card-component-frontendmentor.github.io)
-- Live Site URL: [https://bramizdev.github.io/qr-code-component-frontendmentor.github.io](https://bramizdev.github.io/qr-code-component-frontendmentor.github.io)
+- Live Site URL: [https://bramizdev.github.io/nft-preview-card-component-frontendmentor.github.io](https://bramizdev.github.io/nft-preview-card-component-frontendmentor.github.io)
 
 ### Built with
 
